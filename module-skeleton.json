@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-multi-source-inventory-flutter",
+  "capabilityKey": "planned:ecommerce:multi-source-inventory",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_multi_source_inventory_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/multi-source-inventory.md",
+  "presentationPlan": "projects/ecommerce/flutter/multi-source-inventory.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
